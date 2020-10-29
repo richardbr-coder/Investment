@@ -1,0 +1,6 @@
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Investment\obj\Debug\Investment.csprojAssemblyReference.cache
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Investment\bin\Debug\Investment.exe.config
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Investment\bin\Debug\Investment.exe
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Investment\bin\Debug\Investment.pdb
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Investment\obj\Debug\Investment.exe
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Investment\obj\Debug\Investment.pdb
